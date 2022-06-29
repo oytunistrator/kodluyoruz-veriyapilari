@@ -1,4 +1,6 @@
-[22,27,16,2,18,6] -> Insertion Sort
+# Insertion Sort
+
+[22,27,16,2,18,6]
 
 1. En küçük sayı başa alınır: 
 [2,27,16,22,18,6]
